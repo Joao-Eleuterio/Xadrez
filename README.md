@@ -1,4 +1,4 @@
-# Xadrez-java
+# Xadrez
 Jogo tradicional de Xadrez
 
 
