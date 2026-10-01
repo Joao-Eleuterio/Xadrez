@@ -1,13 +1,22 @@
-# Xadrez
-Jogo tradicional de Xadrez
+# Chess Board Game
 
+Console-based chess project with configurable board sizes and text-based gameplay.
 
-Como usar: 
+## Features
 
-É muito fácil de usar o programa pede ao utilizador se quer jogar ou sair depois se o jogador queira sair o programa acaba se não o programa pede dois nomes (têm que ter dois nomes e têm de começar com letra maiúscula) após isso vai pergunta quantas colunas e linhas deseja ( é só nesta parte que é um pouco diferente pois pode escolher 4x4, 6x6, 6x7, 7x7 e 8x8) depois pergunta se deseja ver as legendas e as peças e com tudo isto é só jogar ( para colocar as coordenadas tem que colocar 1º a linha e em 2º a coluna sem espaços).
+- two-player gameplay
+- configurable board dimensions
+- optional board legends
+- text-based piece rendering
+- coordinate-based moves
+- input validation
 
+## Supported boards
 
-Para usar tem que colocar a font: dejavu sans mono.
+The project supports multiple board configurations, including reduced and standard board sizes.
 
+## Background
 
-Conclui com 20
+An early programming project focused on control flow, data structures, user input and board-game logic.
+
+The repository is kept as a legacy example of foundational programming work.
